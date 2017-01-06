@@ -1,1 +1,1 @@
-# branding
+# branding for Trooba framework
